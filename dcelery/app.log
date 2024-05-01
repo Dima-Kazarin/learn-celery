@@ -1,0 +1,59 @@
+2024-04-28 15:08:24,318 INFO Watching for file changes with StatReloader
+2024-04-30 14:46:13,447 INFO Watching for file changes with StatReloader
+2024-04-30 14:56:19,147 INFO /usr/src/app/dcelery/celery_config.py changed, reloading.
+2024-04-30 14:56:20,063 INFO Watching for file changes with StatReloader
+2024-04-30 14:57:22,452 INFO /usr/src/app/dcelery/celery_tasks/ex6_dead_letter_queue.py changed, reloading.
+2024-04-30 14:57:23,444 INFO Watching for file changes with StatReloader
+2024-04-30 14:58:23,866 INFO /usr/src/app/dcelery/celery_tasks/ex6_dead_letter_queue.py changed, reloading.
+2024-04-30 14:58:24,808 INFO Watching for file changes with StatReloader
+2024-04-30 15:01:16,913 INFO Watching for file changes with StatReloader
+2024-04-30 15:02:53,188 INFO /usr/src/app/dcelery/celery_tasks/ex6_dead_letter_queue.py changed, reloading.
+2024-04-30 15:02:54,043 INFO Watching for file changes with StatReloader
+2024-04-30 15:04:27,244 INFO /usr/src/app/dcelery/celery_tasks/ex6_dead_letter_queue.py changed, reloading.
+2024-04-30 15:04:28,114 INFO Watching for file changes with StatReloader
+2024-04-30 15:04:33,466 INFO /usr/src/app/dcelery/celery_tasks/ex6_dead_letter_queue.py changed, reloading.
+2024-04-30 15:04:34,354 INFO Watching for file changes with StatReloader
+2024-04-30 15:04:58,104 INFO /usr/src/app/dcelery/celery_tasks/ex6_dead_letter_queue.py changed, reloading.
+2024-04-30 15:04:58,957 INFO Watching for file changes with StatReloader
+2024-04-30 15:07:05,493 INFO /usr/src/app/dcelery/celery_tasks/ex6_dead_letter_queue.py changed, reloading.
+2024-04-30 15:07:06,391 INFO Watching for file changes with StatReloader
+2024-04-30 15:07:47,395 INFO /usr/src/app/dcelery/celery_tasks/ex6_dead_letter_queue.py changed, reloading.
+2024-04-30 15:07:48,276 INFO Watching for file changes with StatReloader
+2024-04-30 15:08:10,938 INFO /usr/src/app/dcelery/celery_tasks/ex6_dead_letter_queue.py changed, reloading.
+2024-04-30 15:08:11,830 INFO Watching for file changes with StatReloader
+2024-04-30 15:37:19,828 INFO Watching for file changes with StatReloader
+2024-04-30 15:38:03,857 INFO /usr/src/app/dcelery/celery_tasks/ex6_dead_letter_queue.py changed, reloading.
+2024-04-30 15:38:04,692 INFO Watching for file changes with StatReloader
+2024-04-30 16:04:28,418 INFO Watching for file changes with StatReloader
+2024-04-30 16:05:26,240 INFO /usr/src/app/dcelery/celery_tasks/ex9_task_signals_graceful_shutdown_and_cleanup.py changed, reloading.
+2024-04-30 16:12:32,109 INFO Watching for file changes with StatReloader
+2024-04-30 17:10:48,391 INFO Watching for file changes with StatReloader
+2024-04-30 17:14:12,349 INFO /usr/src/app/dcelery/celery_config.py changed, reloading.
+2024-04-30 17:19:19,966 INFO Watching for file changes with StatReloader
+2024-04-30 17:23:18,286 INFO /usr/src/app/dcelery/celery_config.py changed, reloading.
+2024-04-30 17:23:19,342 INFO Watching for file changes with StatReloader
+2024-05-01 16:37:29,612 INFO Watching for file changes with StatReloader
+2024-05-01 16:49:07,009 INFO Watching for file changes with StatReloader
+2024-05-01 16:49:19,451 WARNING Not Found: /favicon.ico
+2024-05-01 17:01:25,723 INFO /usr/src/app/dcelery/celery_tasks/ex11_task_scheduling.py changed, reloading.
+2024-05-01 17:01:26,730 INFO Watching for file changes with StatReloader
+2024-05-01 17:01:36,360 INFO /usr/src/app/dcelery/celery_tasks/ex12_task_schedule_customization.py changed, reloading.
+2024-05-01 17:01:37,457 INFO Watching for file changes with StatReloader
+2024-05-01 17:19:29,260 INFO /usr/src/app/dcelery/settings.py changed, reloading.
+2024-05-01 17:19:30,264 INFO Watching for file changes with StatReloader
+2024-05-01 17:19:39,738 INFO /usr/src/app/dcelery/settings.py changed, reloading.
+2024-05-01 17:19:40,736 INFO Watching for file changes with StatReloader
+2024-05-01 17:20:10,703 INFO Watching for file changes with StatReloader
+2024-05-01 17:28:44,999 INFO /usr/src/app/dcelery/celery_tasks/ex12_task_schedule_customization.py changed, reloading.
+2024-05-01 17:28:46,114 INFO Watching for file changes with StatReloader
+2024-05-01 17:30:20,692 INFO /usr/src/app/dcelery/settings.py changed, reloading.
+2024-05-01 17:30:21,965 INFO Watching for file changes with StatReloader
+2024-05-01 17:30:41,760 INFO Watching for file changes with StatReloader
+2024-05-01 17:38:55,420 INFO /usr/src/app/dcelery/celery_config.py changed, reloading.
+2024-05-01 17:38:56,550 INFO Watching for file changes with StatReloader
+2024-05-01 17:40:54,707 INFO Watching for file changes with StatReloader
+2024-05-01 17:43:07,890 INFO /usr/src/app/newapp/tasks.py changed, reloading.
+2024-05-01 17:43:08,988 INFO Watching for file changes with StatReloader
+2024-05-01 17:43:56,990 INFO /usr/src/app/newapp/tasks.py changed, reloading.
+2024-05-01 17:43:58,206 INFO Watching for file changes with StatReloader
+2024-05-01 17:46:01,556 INFO Watching for file changes with StatReloader
